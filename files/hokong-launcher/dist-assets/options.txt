@@ -1,0 +1,3 @@
+resourcePacks:["file/hokong-models.zip"]
+incompatibleResourcePacks:[]
+tutorialStep:none

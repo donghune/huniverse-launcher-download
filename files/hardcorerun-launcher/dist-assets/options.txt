@@ -1,0 +1,3 @@
+resourcePacks:["file/hardcorerun-popcorn.zip"]
+incompatibleResourcePacks:[]
+lang:ko_kr
